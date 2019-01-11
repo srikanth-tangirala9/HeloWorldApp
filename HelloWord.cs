@@ -7,6 +7,6 @@ public class Class1
 {
 	public Class1()
 	{
-        Console.WriteLine("First branch checkin in GITHUB");
+        Console.WriteLine("Created first branch and updating Class1");
 	}
 }
